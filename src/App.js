@@ -16,7 +16,7 @@ function App() {
               <option value="Clan">Clan</option>
               </select>
               <input type="text" className="home_text1" placeholder="TAG #XXXXXX "></input>
-              <button className=" home_button1 ">✓ Search</button>
+              <button className=" home_button1 ">🔍 Search</button>
               </div>
   
          </div>      
@@ -25,7 +25,7 @@ function App() {
    <div className="home_chest">
    <label className="home_label4">Upcoming Chest</label>
    <img src={chest_img} alt="" align="right"/>
-   <p className="upcoming_chest">  
+   <p className="upcoming_chest" >  
    Wondering when that Legendary chest is coming? We got you covered.
    </p>
      </div>   
